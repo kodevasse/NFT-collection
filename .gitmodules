@@ -1,0 +1,3 @@
+[submodule "NFT-collection"]
+	path = NFT-collection
+	url = https://github.com/kodevasse/NFT-collection
